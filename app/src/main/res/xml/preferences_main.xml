@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="基本设置">
+
+        <ListPreference
+            android:defaultValue="颐堤蓝"
+            android:entries="@array/themes"
+            android:entryValues="@array/themes"
+            android:key="theme"
+            android:title="应用主题" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="nightMode"
+            android:title="夜间模式" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="编辑器设置">
+
+        <ListPreference
+            android:defaultValue="小"
+            android:entries="@array/sizes"
+            android:entryValues="@array/sizes"
+            android:key="edit_textSize"
+            android:title="字体大小" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="edit_showLineNumber"
+            android:title="显示行号" />
+    </PreferenceCategory>
+</PreferenceScreen>

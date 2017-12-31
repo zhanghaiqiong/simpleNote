@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--夜间主题-->
+    <color name="colorPrimary_night">#607d8b</color>
+    <color name="colorPrimaryDark_night">#607d8b</color>
+    <color name="colorAccent_night">#FF4081</color>
+    <!--颐堤蓝主题-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3f51b5</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--知乎蓝主题-->
+    <color name="colorPrimary_blue">#2196f3</color>
+    <color name="colorPrimaryDark_blue">#2196f3</color>
+    <color name="colorAccent_blue">#FF4081</color>
+    <!--姨妈红主题-->
+    <color name="colorPrimary_red">#db4437</color>
+    <color name="colorPrimaryDark_red">#db4437</color>
+    <color name="colorAccent_red">#FF4081</color>
+    <!--哔哩粉主题-->
+    <color name="colorPrimary_pin">#fb7299</color>
+    <color name="colorPrimaryDark_pin">#fb7299</color>
+    <color name="colorAccent_pin">#2196f3</color>
+    <!--纯洁白主题-->
+    <color name="colorPrimary_write">#ffffff</color>
+    <color name="colorPrimaryDark_write">#ffffff</color>
+    <color name="colorAccent_write">#2196f3</color>
+</resources>

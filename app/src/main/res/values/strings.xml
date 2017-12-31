@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">simple Note</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="themes">
+        <item>颐堤蓝</item>
+        <item>知乎蓝</item>
+        <item>姨妈红</item>
+        <item>哔哩粉</item>
+        <item>纯洁白</item>
+    </string-array>
+    <string-array name="sizes">
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+    </string-array>
+</resources>
